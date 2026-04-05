@@ -1,4 +1,4 @@
-# 📊 Sales Dashboard (Power BI Project)
+![dashboard-preview png](https://github.com/user-attachments/assets/c8f4a256-a86e-4812-926f-a11fcc5feb9d)# 📊 Sales Dashboard (Power BI Project)
 
 ## 🔍 Overview
 This project presents an interactive sales dashboard built using Power BI to analyze sales performance, customer behavior, and profit trends.
@@ -20,7 +20,11 @@ This project presents an interactive sales dashboard built using Power BI to ana
 - Excel  
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
+![dashboard-preview png](https://github.com/user-attachments/assets/c73221b7-f25b-43f4-8329-1a40526eb414)
+![dashboard-preview png](https://github.com/user-attachments/assets/4c570aae-c388-4d68-8150-80fac24a42bb)
+
+
+
 
 ## 📂 Files
 - sales_dashboard.pbix
