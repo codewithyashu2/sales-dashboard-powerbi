@@ -1,31 +1,30 @@
-# sales-dashboard-powerbi
 # 📊 Sales Dashboard (Power BI Project)
 
 ## 🔍 Overview
-This project is an interactive Sales Dashboard created using Power BI to analyze sales performance, profit trends, and customer insights.
+This project presents an interactive sales dashboard built using Power BI to analyze sales performance, customer behavior, and profit trends.
 
 ## 📊 Key Metrics
 - Total Sales: 438K  
 - Total Profit: 37K  
-- Total Quantity Sold: 5615  
+- Total Quantity: 5615  
 - Average Order Value: 121K  
 
-## 📈 Insights
+## 📈 Key Insights
 - Clothing category contributes the highest sales (63%)
 - COD is the most preferred payment method
-- Profit varies across months with noticeable trends
-- Identified top-performing sub-categories and customers
+- Monthly profit trends show fluctuations
+- Identified top-performing sub-categories
 
 ## 🛠 Tools Used
 - Power BI  
 - Excel  
 
-## 📂 Files Included
-- Power BI Dashboard (.pbix)
-- Dataset (.xlsx/.csv)
-- Dashboard Screenshot
+## 📷 Dashboard Preview
+(Add your screenshot here)
+
+## 📂 Files
+- sales_dashboard.pbix
+- sales_data.xlsx
 
 ## 🚀 Author
 Yogesh Kumar
-
-
